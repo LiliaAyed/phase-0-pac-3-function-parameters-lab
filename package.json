@@ -29,5 +29,8 @@
     "mocha": "5.2.0",
     "mocha-jsdom": "~1.1.0",
     "mocha-multi": "^1.1.3"
+  },
+  "dependencies": {
+    "java-script-intro-to-functions-lab": "github:LiliaAyed/phase-0-pac-3-function-parameters-lab"
   }
 }
